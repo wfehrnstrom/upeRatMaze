@@ -1,0 +1,23 @@
+{
+  "name": "upe_coding_challenge",
+  "version": "1.0.0",
+  "description": "My submission for a maze traversal algorithm to \"find the interviewer\"",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "uclaupe"
+  ],
+  "author": "Will Fehrnstrom",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "esm": "^3.0.84",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "nodemon": "^1.18.6"
+  }
+}
