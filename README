@@ -1,0 +1,1 @@
+In order to run this code, first use npm install, then do node index.js.  This should trigger running through all of the mazes and solving them.
